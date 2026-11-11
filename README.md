@@ -9,7 +9,7 @@
 </a>
 &nbsp;
 <a href="mailto:contact@blagojevicdavid.com">
-  <img src="https://img.shields.io/badge/Email-info@blagojevicdavid.com-0F1526?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
+  <img src="https://img.shields.io/badge/Email-contact@blagojevicdavid.com-0F1526?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
 </a>
 
 </div>
